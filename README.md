@@ -2,7 +2,7 @@
 
 > "Find Any Book Of Your Interest Here"
 
-Night Readers is an online book library web application that lets users browse, search, and explore books across multiple genres — Fiction, Romance, Adventure, and Horror. Built using vanilla PHP, HTML, and CSS using MySQL for the database, a deliberate focus on core web fundamentals.
+Night Readers is an online book library web application that lets users browse, search, and explore books across multiple genres: Fiction, Romance, Adventure, and Horror. Built using vanilla PHP, HTML, and CSS using MySQL for the database, a deliberate focus on core web fundamentals.
 
 ## 🛠️ Tech Stack
 
